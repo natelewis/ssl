@@ -1,2 +1,10 @@
-# ssl
-Quick way to make a ssl directory and execute a script to make self signed certs in it
+## Quick ssl creator for testing projects
+This repo is intended to pulled into a a project and allow you to quickly make self signed certs.
+
+```sh
+git clone git@github.com:natelewis/ssl.git
+cd ssl
+createCert.sh www.thethingimtesting.com
+```
+
+The end result is you will have a ssl directory in your project with a cert.pem and key.pem.
