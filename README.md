@@ -1,5 +1,5 @@
 ## Quick self signed ssl creator
-This repo is intended to pulled into the root directory of a project and added to the .gitignore of the parent project.
+This repo is intended to be pulled into the root directory of a project and added to the .gitignore of the parent project.
 
 ```sh
 git clone git@github.com:natelewis/ssl.git
