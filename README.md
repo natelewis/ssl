@@ -1,4 +1,4 @@
-## Quick ssl creator for testing projects
+## Quick self signed ssl creator
 This repo is intended to pulled into a a project and allow you to quickly make self signed certs.
 
 ```sh
