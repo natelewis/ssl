@@ -1,0 +1,7 @@
+csr.pem
+private-root-ca.privkey.pem
+privkey.pem
+cert.pem
+key.pem
+private-root-ca.cert.pem
+private-root-ca.srl
