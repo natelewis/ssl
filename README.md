@@ -14,4 +14,4 @@ ssl/cert.pem
 ssl/key.pem
 ```
 
-Also if you controlled the client and the server, you can use the root certificates also generated to create an warning free conversation.
+Also if you controlled the client and the server, you can use the root certificates also generated to create a warning free conversation.
