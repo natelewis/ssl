@@ -1,10 +1,10 @@
 ## Quick self signed ssl creator
-This repo is intended to pulled into a a project and allow you to quickly make self signed certs.
+This repo is intended to pulled into the root directory of a project and added to the .gitignore of the parent project.
 
 ```sh
 git clone git@github.com:natelewis/ssl.git
 cd ssl
-createCert.sh www.thethingimtesting.com
+makeCert.sh www.thethingimtesting.com
 ```
 
-The end result is you will have a ssl directory in your project with a cert.pem and key.pem.
+The end result is you will have a ssl directory in your project with a cert.pem and key.pem.  
